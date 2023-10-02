@@ -1,0 +1,15 @@
+total 56
+drwxrwxr-x 2 joe joe 4096 Okt  2 20:29 .
+drwxrwxr-x 6 joe joe 4096 Okt  2 13:37 ..
+-rwxrw-r-- 1 joe joe   32 Okt  2 13:58 0-hello_world
+-rwxrw-r-- 1 joe joe   28 Okt  2 14:58 1-confused_smiley
+-rwxrw-r-- 1 joe joe   28 Okt  2 15:03 2-hellofile
+-rwxrw-r-- 1 joe joe   39 Okt  2 15:10 3-twofiles
+-rwxrw-r-- 1 joe joe   35 Okt  2 15:14 4-lastlines
+-rwxrw-r-- 1 joe joe   35 Okt  2 15:18 5-firstlines
+-rwxrw-r-- 1 joe joe   40 Okt  2 15:23 6-third_line
+-rwxrw-r-- 1 joe joe   99 Okt  2 15:37 7-file
+-rwxrw-r-- 1 joe joe   35 Okt  2 20:26 8-cwd_state
+-rw-rw-r-- 1 joe joe   12 Okt  2 20:19 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 joe joe    0 Okt  2 20:29 ls_cwd_contet
+-rw-rw-r-- 1 joe joe 5241 Okt  2 13:51 README.md
